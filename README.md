@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Priya Maharban and I'm a full stack web developer currently based in New York City. I mainly enjoy front end development and love to keep learning new languages.<br>
+My name is Priya and I'm a full stack web developer currently based in New York City. I mainly enjoy front end development and love to keep learning new languages.<br>
 
 I've completed several successful apps using both front end and back end technologies such as: 
 - Basics: HTML, CSS, JavaScript
