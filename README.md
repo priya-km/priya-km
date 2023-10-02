@@ -21,7 +21,5 @@ I've completed several successful apps using both front end and back end technol
  <br><br>
 [My Repositories](https://github.com/priya-km?tab=repositories "My Repositories")
  <br><br>
-[GitHub Profile](https://github.com/priya-km "Priya-Maharban")
-  <br><br>
 [Email Me](mailto:priyakmaharban@gmail.com?subject=Hi% "Hi!")
   <br><br>
