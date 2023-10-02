@@ -17,7 +17,7 @@ I've completed several successful apps using both front end and back end technol
 - ⚡ Fun fact: I'm an avid Pokemon fan!
 
 ## Links 🔗
-[Live Portfolio](https://priya-km.github.io/portfolio "Live View")
+[Portfolio](https://priya-km.github.io/portfolio "Portfolio")
  <br><br>
 [My Repositories](https://github.com/priya-km?tab=repositories "My Repositories")
  <br><br>
