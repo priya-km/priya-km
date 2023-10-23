@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![github banner](https://github.com/priya-km/priya-km/assets/118628757/83abaac3-2c0b-4c10-abea-2ecfbc64d7c2)
-
+![github banner](https://github.com/priya-km/priya-km/assets/118628757/61f78995-8e24-4f67-90c8-f3bc79973e91)
 
 My name is Priya and I'm a full stack web developer currently based in New York City. I mainly enjoy front end development and love to keep learning new languages.<br>
 
