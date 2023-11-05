@@ -2,7 +2,7 @@
 
 ![github banner](https://github.com/priya-km/priya-km/assets/118628757/ef981ec1-f433-4499-86d0-3d3ce9b0a716)
 
-My name is Priya and I'm a full stack web developer currently based in New York City. I mainly enjoy front end development and love to keep learning new languages.<br>
+My name is Priya (pree-yah) and I'm a full stack web developer currently based in New York City. I mainly enjoy front end development and love to keep learning new languages.<br>
 
 I've completed several successful apps using both front end and back end technologies such as: 
 - Basics: HTML, CSS, JavaScript
