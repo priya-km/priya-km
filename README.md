@@ -11,8 +11,12 @@ I've completed several successful apps using both front end and back end technol
 
 <h3>I am currently open to remote, hybrid, and on site (in the NYC area) work. Let's chat! </h3>
 
+## Current Projects:
+- 🛒 I’m currently working on an e-commerce app called E-Shop that is being developed with the MERN stack
+- 💼 I am also working on the completion of case studies for all of my current projects
+- 🗨️ I will soon start working on my 'Chat App' project once more, improving its UI and more.
+
 ## About Me:
-- 🌱 I’m currently working on an e-commerce app called E-Shop that is being developed with the MERN stack
 - 👯 I’m looking to collaborate on projects together!
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm an avid Pokemon fan!
