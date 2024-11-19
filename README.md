@@ -9,20 +9,19 @@ I've completed several successful apps using both front end and back end technol
 - Front-End: Angular, React, React Native, npm, and more.
 - Back-End: Python, Django, MongoDB, Firebase, Express, Node.js, PostgreSQL, Heroku, and more.
 
-<h3>I am currently open to remote, hybrid, and on site (in the NYC area) work. Let's chat! </h3>
+<h3>I am currently open to remote, hybrid, and on site (in the NYC area) work within the user experience and user interface (UI/UX) field. Let's chat! </h3>
 
 ## Current Projects:
 - 💻 I'm currently branching out into studying ui/ux design! 
-- 💼 I am also working on the completion of case studies for all of my current projects
-- 🗨️ I will soon start working on my 'Chat App' project once more, improving its UI and more.
+- 💼 I am currently working on a student project of the design of an augmented reality zoo app! You can view it on my UI/UX portfolio soon.
+- 📝 I have moved my portfolio over to a new site (listed below), it currently showcases the projects I have worked on in my UI/UX bootcamp and I will soon move over the old case studies of my web development projects as well.
 
 ## About Me:
-- 👯 I’m looking to collaborate on projects together!
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I'm an avid Pokemon fan!
 
 ## Links 🔗
-[Portfolio](https://priya-km.github.io/portfolio "Portfolio")
+[Portfolio](priyamaharban.squarespace.com "Portfolio")
  <br><br>
 [My Repositories](https://github.com/priya-km?tab=repositories "My Repositories")
  <br><br>
